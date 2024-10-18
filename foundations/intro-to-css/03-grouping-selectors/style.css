@@ -1,0 +1,14 @@
+.header,
+.bottom {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.header {
+    background-color: black;
+    color: white;
+}
+
+.bottom {
+    background-color: yellow;
+}
